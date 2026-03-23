@@ -42,4 +42,10 @@ A jornada de dados se divide em três grandes pilares:
 - *"Crie um roteiro de estudos de 5 dias focado em Linux para Engenharia de Dados."*
 
 ---
+## 🔗 Acesse o Mentor em Tempo Real
+Você pode interagir com a base de conhecimento e testar os prompts deste projeto através do link oficial:
+👉 **[Clique aqui para acessar o Mentor Digital no NotebookLM](https://notebooklm.google.com/notebook/1b738d0e-9e85-4315-8f78-1c3c88fb35c5)**
+
+*(Nota: O acesso é configurado como Visualizador, permitindo interações de chat sem alterar as fontes originais.)*
+---
 ✨ **Projeto desenvolvido por Taís Prates para o desafio de GenIA e Dados na DIO.**
