@@ -41,6 +41,12 @@ A jornada de dados se divide em três grandes pilares:
 - *"Explique a diferença entre Star Schema e Snowflake usando os exemplos das minhas notas."*
 - *"Crie um roteiro de estudos de 5 dias focado em Linux para Engenharia de Dados."*
 
+## 📺 Demonstração em Vídeo: Roadmap Completo
+Assista ao vídeo explicativo de 7 minutos detalhando toda a jornada de estudos e a estrutura do Mentor Digital:
+
+[![Assista o Roadmap](https://img.youtube.com/vi/ID_DO_SEU_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DO_SEU_VIDEO](https://youtu.be/SQBIXOGurpg?si=GJaxrhoXoIA5qMFD))
+
+> **Nota:** Este vídeo foi gerado utilizando os novos recursos de "Vídeo Explicativo" do NotebookLM, unindo as documentações técnicas à estética visual criativa.
 ---
 ## 🔗 Acesse o Mentor em Tempo Real
 Você pode interagir com a base de conhecimento e testar os prompts deste projeto através do link oficial:
