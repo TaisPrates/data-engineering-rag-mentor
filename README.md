@@ -44,8 +44,10 @@ A jornada de dados se divide em três grandes pilares:
 ## 📺 Demonstração em Vídeo: Roadmap Completo
 Assista ao vídeo explicativo de 7 minutos detalhando toda a jornada de estudos e a estrutura do Mentor Digital:
 
-[![Assista o Roadmap](https://img.youtube.com/vi/ID_DO_SEU_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DO_SEU_VIDEO](https://youtu.be/SQBIXOGurpg?si=GJaxrhoXoIA5qMFD))
+[![Assista o Roadmap](<img width="412" height="229" alt="Captura de Tela (211)" src="https://github.com/user-attachments/assets/6f7ccef5-bb23-4fa7-a939-e1cad3b79db4" />
+)](https://youtu.be/SQBIXOGurpg?si=vwEgyglskNJ88UGn)
 
+*Clique na imagem acima para assistir no YouTube.*
 > **Nota:** Este vídeo foi gerado utilizando os novos recursos de "Vídeo Explicativo" do NotebookLM, unindo as documentações técnicas à estética visual criativa.
 ---
 ## 🔗 Acesse o Mentor em Tempo Real
