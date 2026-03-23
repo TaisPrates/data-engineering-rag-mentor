@@ -25,7 +25,7 @@ Durante o desenvolvimento, testei diferentes abordagens para extrair o melhor da
   - **Resultado:** A IA me surpreendeu ao priorizar **Linux e Redes** antes mesmo de ferramentas famosas como Spark, reforçando a importância da base.
 - **Troubleshooting (Cicatrizes):** No início, as respostas eram genéricas. Aprendi que, ao anexar meu caderno pessoal e pedir para a IA **comparar** com as fontes oficiais, ela se tornou muito mais precisa, identificando inclusive diferenças entre arquiteturas tradicionais (DW) e modernas (Lakehouse).
 
-## 📖 Miniguia de Estudo (Entrega Final)
+## 📖 Mini guia de Estudo (Entrega Final)
 
 ### 📌 Resumo Estruturado
 A jornada de dados se divide em três grandes pilares:
