@@ -2,7 +2,7 @@
 
 Este projeto transcende um guia de estudos tradicional, consolidando-se como um ecossistema de aprendizado ativo que integra documentações globais e anotações personalizadas via NotebookLM.
 
-Este repositório contém a documentação do meu projeto prático desenvolvido para o desafio de **GenIA e Dados** da [DIO](https://www.dio.me/). O objetivo foi criar um "Cérebro Digital" especializado em Engenharia de Dados para acelerar meu aprendizado e organizar o conhecimento de forma inteligente.
+Desafio de **GenIA e Dados** da [DIO](https://www.dio.me/). O objetivo foi criar um "Cérebro Digital" especializado em Engenharia de Dados para acelerar meu aprendizado e organizar o conhecimento de forma inteligente.
 
 ## 🎯 Contexto e Objetivos
 Como iniciante na área de Engenharia de Dados, me deparei com uma vasta "sopa de letrinhas" (Spark, dbt, Cloud, ETL). Este projeto visa:
