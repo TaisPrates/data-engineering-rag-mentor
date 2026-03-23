@@ -1,4 +1,6 @@
-# 🚀 Mentor de Estudos: Engenharia de Dados com NotebookLM
+# 🧠 Data Engineering Intelligence Hub: Mentor Digital com RAG
+
+Este projeto transcende um guia de estudos tradicional, consolidando-se como um ecossistema de aprendizado ativo que integra documentações globais e anotações personalizadas via NotebookLM.
 
 Este repositório contém a documentação do meu projeto prático desenvolvido para o desafio de **GenIA e Dados** da [DIO](https://www.dio.me/). O objetivo foi criar um "Cérebro Digital" especializado em Engenharia de Dados para acelerar meu aprendizado e organizar o conhecimento de forma inteligente.
 
