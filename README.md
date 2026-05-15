@@ -1,14 +1,21 @@
-# 🧠 Data Engineering Intelligence Hub: Mentor Digital com RAG
+# 🧠 Technical Intelligence Hub: Mentor Digital para Dados, Cloud e IA
 
-Este projeto transcende um guia de estudos tradicional, consolidando-se como um ecossistema de aprendizado ativo que integra documentações globais e anotações personalizadas via NotebookLM.
+Este projeto transcende um guia de estudos tradicional, consolidando-se como um ecossistema de aprendizado ativo baseado em IA, integrando documentações globais, roadmaps técnicos e anotações personalizadas através do NotebookLM.
+
+O objetivo foi construir um "Mentor Digital" voltado para o ecossistema moderno de Dados, Cloud Computing, Inteligência Artificial e Arquitetura de Sistemas, utilizando técnicas de RAG (Retrieval-Augmented Generation) para transformar conhecimento disperso em uma experiência prática, contextualizada e reutilizável.
+
 
 Desafio de **GenIA e Dados** da [DIO](https://www.dio.me/). O objetivo foi criar um "Cérebro Digital" especializado em Engenharia de Dados para acelerar meu aprendizado e organizar o conhecimento de forma inteligente.
 
 ## 🎯 Contexto e Objetivos
-Como iniciante na área de Engenharia de Dados, me deparei com uma vasta "sopa de letrinhas" (Spark, dbt, Cloud, ETL). Este projeto visa:
-- Centralizar fontes de alta qualidade (AWS, IBM, Databricks).
-- Criar um mentor didático que explique desde os fundamentos até arquiteturas complexas.
-- Validar minhas anotações pessoais de aula contra documentações oficiais de mercado.
+Durante meus estudos em tecnologia, percebi que áreas como Engenharia de Dados, Cloud Computing, IA Generativa e Arquitetura Moderna compartilham conceitos fundamentais, mas geralmente são estudadas de forma fragmentada.
+
+Este projeto nasceu para centralizar conhecimento técnico em um único ambiente inteligente de aprendizado, permitindo:
+- Consolidar documentações oficiais e roadmaps técnicos.
+- Criar um mentor didático baseado em IA para estudos contextualizados.
+- Relacionar conceitos de dados, cloud, segurança, pipelines e IA moderna.
+- Validar anotações pessoais com referências oficiais do mercado.
+- Construir uma base reutilizável de aprendizado contínuo.
 
 ## 📚 Curadoria de Fontes
 Utilizei uma combinação de fontes oficiais e roadmaps de especialistas para garantir a precisão das respostas:
